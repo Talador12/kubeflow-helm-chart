@@ -1,0 +1,3 @@
+name: kubeflow
+image:
+  pullPolicy: Always

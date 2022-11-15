@@ -1,0 +1,3 @@
+name: kubeflow
+env: staging
+namespace: kubeflow
